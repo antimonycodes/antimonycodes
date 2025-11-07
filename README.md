@@ -7,12 +7,6 @@ From frontend interfaces to backend systems and data pipelines, I focus on build
 </h3>
 
 <p align="center">
-  <a href="https://twitter.com/boymidee" target="blank">
-    <img src="https://img.shields.io/twitter/follow/tobilobasb?logo=twitter&style=for-the-badge" alt="boymidee" />
-  </a>
-  <a href="https://www.linkedin.com/in/tobilobaakin/" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn"/>
-  </a>
   <img src="https://komarev.com/ghpvc/?username=antimonycodes&label=Profile%20views&color=0e75b6&style=flat" alt="antimonycodes" />
 </p>
 
