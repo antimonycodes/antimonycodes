@@ -3,7 +3,7 @@
 <h3 align="center">
 I build tools, interfaces, and systems that work reliably.  
 I focus on how code behaves, how data flows, and how people experience it.  
-From frontend interfaces to backend systems and data pipelines, I focus on building solutions that are **fast, secure, and scalable**, while keeping the user experience seamless.
+From frontend interfaces to backend systems and data pipelines, I focus on building solutions that are <b>fast, secure, and scalable</b>, while keeping the user experience seamless.
 </h3>
 
 <p align="center">
