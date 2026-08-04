@@ -106,17 +106,6 @@ Passionate about creating fast, secure, and scalable applications with great use
 
 ---
 
-# 📌 Featured Projects
-
-> Replace these repositories with your own.
-
-- 🚀 **Project One** – Full-stack SaaS application
-- 📊 **Project Two** – Data Analytics Dashboard
-- 🤖 **Project Three** – AI-powered Web App
-- ⚡ **Project Four** – Go REST API
-
----
-
 # 🌐 Connect With Me
 
 <p align="center">
