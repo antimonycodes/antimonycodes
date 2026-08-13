@@ -84,7 +84,10 @@ Passionate about creating fast, secure, and scalable applications with great use
 
 # 💻 Top Languages
 <p align="center">
-<img src="https://github-stats-extended.vercel.app/api/top-langs?username=antimonycodes&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+# 💻 Top Languages
+<p align="center">
+<img src="https://skillicons.dev/icons?i=go,ts,js,python,html,css" />
+</p>
 </p>
 
 ---
