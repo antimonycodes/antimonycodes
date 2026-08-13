@@ -74,7 +74,7 @@ Passionate about creating fast, secure, and scalable applications with great use
 
 # 📊 GitHub Analytics
 <p align="center">
-<img height="170" src="https://github-stats-extended.vercel.app/api?username=antimonycodes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=antimonycodes&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5" />
 </p>
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=antimonycodes&theme=tokyonight&hide_border=true" />
