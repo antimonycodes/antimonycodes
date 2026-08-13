@@ -34,25 +34,21 @@ Passionate about creating fast, secure, and scalable applications with great use
 # 🛠 Tech Stack
 
 ### Frontend
-
 <p>
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,flutter" />
 </p>
 
 ### Backend
-
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,go" />
 </p>
 
 ### Databases
-
 <p>
 <img src="https://skillicons.dev/icons?i=postgres,mysql" />
 </p>
 
 ### Data Analytics
-
 <p>
 <img src="https://skillicons.dev/icons?i=python" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Microsoft_Excel_2013-2019_logo.svg" width="48">
@@ -60,7 +56,6 @@ Passionate about creating fast, secure, and scalable applications with great use
 </p>
 
 ### DevOps & Tools
-
 <p>
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,postman" />
 </p>
@@ -78,20 +73,23 @@ Passionate about creating fast, secure, and scalable applications with great use
 ---
 
 # 📊 GitHub Analytics
-
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=antimonycodes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antimonycodes&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=antimonycodes&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-# 📈 Contribution Graph
+# 💻 Top Languages
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antimonycodes&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
 
+---
+
+# 📈 Contribution Graph
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=antimonycodes&theme=tokyo-night&hide_border=true" />
 </p>
@@ -99,7 +97,6 @@ Passionate about creating fast, secure, and scalable applications with great use
 ---
 
 # 🏆 GitHub Trophies
-
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=antimonycodes&theme=tokyonight&row=1&column=7&no-frame=true&margin-w=15"/>
 </p>
@@ -107,21 +104,16 @@ Passionate about creating fast, secure, and scalable applications with great use
 ---
 
 # 🌐 Connect With Me
-
 <p align="center">
-
 <a href="https://www.linkedin.com/in/akinrinadetobiloba/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
-
 <a href="https://twitter.com/boymidee">
 <img src="https://skillicons.dev/icons?i=twitter" />
 </a>
-
 <a href="mailto:akinrinadetobilobasb@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
-
 </p>
 
 ---
@@ -137,7 +129,5 @@ func Build() string {
 ---
 
 <p align="center">
-
-### ✨ *"Building reliable, scalable, and meaningful software — one commit at a time."*
-
+✨ <i>"Building reliable, scalable, and meaningful software — one commit at a time."</i>
 </p>
