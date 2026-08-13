@@ -84,7 +84,7 @@ Passionate about creating fast, secure, and scalable applications with great use
 
 # 💻 Top Languages
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antimonycodes&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img src="https://github-readme-stats-sigma-black.vercel.app/api/top-langs/?username=antimonycodes&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 ---
