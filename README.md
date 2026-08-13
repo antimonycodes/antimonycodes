@@ -74,7 +74,7 @@ Passionate about creating fast, secure, and scalable applications with great use
 
 # 📊 GitHub Analytics
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=antimonycodes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=antimonycodes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 </p>
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=antimonycodes&theme=tokyonight&hide_border=true" />
@@ -84,8 +84,7 @@ Passionate about creating fast, secure, and scalable applications with great use
 
 # 💻 Top Languages
 <p align="center">
-<img src="https://github-readme-stats-sigma-black.vercel.app/api/top-langs/?username=antimonycodes&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-  <img src="https://github-readme-stats.athul.dev/api/top-langs/?username=antimonycodes&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=antimonycodes&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 ---
