@@ -1,72 +1,151 @@
-<h1 align="center">👋 Hey, I'm ANTIMONY</h1> <h3 align="center"> Full-Stack Developer • Backend Engineer • Data Enthusiast </h3> <p align="center"> I build reliable software, scalable APIs, and data-driven products that solve real-world problems. </p> <p align="center"> <a href="https://github.com/antimonycodes"> <img src="https://komarev.com/ghpvc/?username=antimonycodes&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /> </a> <a href="https://github.com/antimonycodes?tab=followers"> <img src="https://img.shields.io/github/followers/antimonycodes?label=Followers&style=flat&color=0e75b6" alt="GitHub Followers" /> </a> <a href="https://github.com/antimonycodes?tab=repositories"> <img src="https://img.shields.io/github/stars/antimonycodes?affiliations=OWNER&style=flat&color=0e75b6" alt="GitHub Stars" /> </a> </p>
-🧠 About Me
+<h1 align="center">👋 Hey, I'm ANTIMONY — Full-Stack Developer & Data Enthusiast</h1>
 
-I'm a Full-Stack Developer and Data Enthusiast focused on building software that is fast, secure, maintainable, and useful.
+<h3 align="center">
+I build tools, interfaces, and systems that solve real-world problems.
+Passionate about creating fast, secure, and scalable applications with great user experiences while leveraging data to drive better decisions.
+</h3>
 
-My work sits at the intersection of:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=antimonycodes&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-⚛️ Frontend Engineering — React, Next.js, TypeScript
-⚙️ Backend Engineering — Node.js, NestJS, Express, Go
-📊 Data & Analytics — Python, SQL, Pandas, NumPy, Excel, Power BI
-☁️ Infrastructure — Docker, Kubernetes, CI/CD
-🤖 Emerging Technologies — AI, automation, and data engineering
+<p align="center">
+  <a href="https://github.com/antimonycodes">
+    <img src="https://img.shields.io/github/followers/antimonycodes?label=Followers&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/antimonycodes?tab=repositories">
+    <img src="https://img.shields.io/github/stars/antimonycodes?affiliations=OWNER&style=for-the-badge" />
+  </a>
+</p>
 
-I enjoy turning ideas into production-ready applications while continuously improving my understanding of architecture, performance, security, and developer experience.
+---
 
-🛠️ Tech Stack
-🎨 Frontend
-<p> <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,flutter" /> </p>
-⚙️ Backend
-<p> <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,go" /> </p>
-🗄️ Databases
-<p> <img src="https://skillicons.dev/icons?i=postgres,mysql" /> </p>
-📊 Data & Analytics
-<p> <img src="https://skillicons.dev/icons?i=python" /> <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Microsoft_Excel_2013-2019_logo.svg" width="48" height="48" alt="Excel" /> <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="48" height="48" alt="Power BI" /> </p>
-🚀 DevOps & Tools
-<p> <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,postman" /> </p>
-🚀 What I'm Building & Learning
+# 🧠 About Me
 
-Currently focused on:
+- 💻 Full-Stack Developer specializing in **React, Next.js, NestJS, Express, and Go**
+- 📊 Data Analyst using **Python, SQL, Excel, Power BI, Pandas & NumPy**
+- 🐳 Experienced with **Docker, Kubernetes, GitHub Actions, CI/CD, and Postman**
+- 🚀 Interested in **AI, Backend Engineering, Cloud Infrastructure, and Data Engineering**
+- 🌱 Constantly learning how software architecture, data, and design come together to build impactful products.
+- 📫 **Email:** `akinrinadetobilobasb@gmail.com`
 
-🤖 AI-powered applications
-⚡ High-performance backend services with Go
-🔌 Scalable and secure REST APIs
-📈 Interactive data products with Python, SQL & Power BI
-☁️ Cloud infrastructure and containerized deployments
-🔄 CI/CD and automated development workflows
-🔐 Secure, production-ready application architecture
-🧩 Data engineering and scalable systems
-💻 Engineering Philosophy
-Simple enough to understand.
-Robust enough to trust.
-Scalable enough to grow.
+---
 
+# 🛠 Tech Stack
 
-I care about writing software that isn't just functional, but also:
+### Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,flutter" />
+</p>
 
-⚡ Fast
-🔒 Secure
-🧩 Maintainable
-📈 Scalable
-👨‍💻 Developer-friendly
+### Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,go" />
+</p>
 
-📊 GitHub Activity
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=antimonycodes&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="170" alt="Antimony's GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antimonycodes&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="Top Languages" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com/?user=antimonycodes&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> </p>
-📈 Contribution Graph
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=antimonycodes&theme=tokyo-night&hide_border=true&area=true" alt="Antimony's Contribution Graph" /> </p>
-🌐 Connect With Me
-<p align="center"> <a href="https://www.linkedin.com/in/akinrinadetobiloba/"> <img src="https://skillicons.dev/icons?i=linkedin" width="48" alt="LinkedIn" /> </a> &nbsp; <a href="https://twitter.com/boymidee"> <img src="https://skillicons.dev/icons?i=twitter" width="48" alt="Twitter" /> </a> &nbsp; <a href="mailto:akinrinadetobilobasb@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" width="48" alt="Email" /> </a> </p> <p align="center"> 📫 <strong>Let's build something meaningful.</strong> </p>
-💡 A Little About How I Build
-package main
+### Databases
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql" />
+</p>
 
-import "fmt"
+### Data Analytics
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Microsoft_Excel_2013-2019_logo.svg" width="48">
+<img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="48">
+</p>
 
+### DevOps & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,postman" />
+</p>
+
+---
+
+# 🚀 Current Focus
+
+- 🤖 Building AI-powered applications
+- ⚡ Developing high-performance backend services with Go
+- 📈 Creating interactive dashboards with SQL, Python & Power BI
+- ☁️ Learning cloud infrastructure and scalable deployments
+- 🔒 Building secure and production-ready APIs
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+<img
+  height="170"
+  src="https://github-readme-stats.vercel.app/api?username=antimonycodes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
+  alt="Antimony's GitHub Stats"
+/>
+</p>
+
+<p align="center">
+<img
+  height="170"
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=antimonycodes&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+  alt="Top Languages"
+/>
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img
+  src="https://streak-stats.demolab.com/?user=antimonycodes&theme=tokyonight&hide_border=true"
+  alt="GitHub Streak"
+/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=antimonycodes&theme=tokyo-night&hide_border=true"
+  alt="Antimony's Contribution Graph"
+/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img
+  src="https://github-profile-trophy.vercel.app/?username=antimonycodes&theme=tokyonight&row=1&column=7&no-frame=true&margin-w=15"
+  alt="GitHub Trophies"
+/>
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/akinrinadetobiloba/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://twitter.com/boymidee">
+<img src="https://skillicons.dev/icons?i=twitter" />
+</a>
+
+<a href="mailto:akinrinadetobilobasb@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+</p>
+
+---
+
+# 💡 Fun Fact
+
+```go
 func Build() string {
-	return "Fast ⚡ Secure 🔒 Scalable 🚀"
+    return "Fast ⚡ Secure 🔒 Scalable 🚀"
 }
-
-func main() {
-	fmt.Println(Build())
-}
-
-<p align="center"> <i> "Building reliable, scalable, and meaningful software — one commit at a time." </i> </p>
