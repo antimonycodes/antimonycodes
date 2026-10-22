@@ -94,12 +94,12 @@ Passionate about creating fast, secure, and scalable applications with great use
 
 # 🔥 GitHub Streak
 
-<p align="center">
+<!-- <p align="center">
 <img
   src="https://streak-stats.demolab.com/?user=antimonycodes&theme=tokyonight&hide_border=true"
   alt="GitHub Streak"
 />
-</p>
+</p> -->
 
 ---
 
